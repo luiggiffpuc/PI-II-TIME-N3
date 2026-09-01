@@ -1,7 +1,15 @@
 # PI-II-TIME-N3
 **Professor Orientador**: FERNANDO LUIZ DE ALMEIDA SILVEIRA
+
+---
+
 **Grupo N3**
+
+---
+
 Projeto desenvolvido para a disciplina **Projeto Integrador II– Engenharia de Software**  da PUC Campinas
+
+---
 
 ## 👥 Integrantes
 
